@@ -8,6 +8,7 @@ A Python program (with GUI) to estimate the value of $pi$.
 - Run the program. 
 
 **NOTE #1:** You can change the value of *n* in the code. Remember, the higher the value of *n*, the more accurate the estimation. 
+
 **NOTE #2:** You can also change the value of *FRAME_RATE* in the code to speed up (or slow down) the estimation.
 
 ## :interrobang: But how does it work
