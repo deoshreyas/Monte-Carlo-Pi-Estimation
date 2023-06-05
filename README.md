@@ -2,6 +2,8 @@
 
 A Python program (with GUI) to estimate the value of $pi$.
 
+![Demo](https://github.com/deoshreyas/Monte-Carlo-Pi-Estimation/blob/849dd2a14436dc249fa460f60cdb911a4cbda1b9/demo_img.png)
+
 ## :grey_question: How to use it?
 - Clone the repository on your local machine.
 - Make sure you have **Python** and **Pygame** installed.
