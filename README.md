@@ -1,6 +1,6 @@
 # Monte-Carlo-Pi-Estimation
 
-A Python program (with GUI) to estimate the value of $pi$
+A Python program (with GUI) to estimate the value of $pi$.
 
 ## :grey_question: How to use it?
 - Clone the repository on your local machine.
