@@ -33,7 +33,7 @@ In other words:
 $$ {pi \over 4} \approx {N_{inner} \over N_{total}} $$
 
 $$ pi \approx 4{N_{inner} \over N_{total}} $$
-## :computer: How to help?
-Please feel free to suggest improvements, including but not limited to new operations and GUI updates.
 
-*I have done my best to eradicate all _known_ bugs from the code. However, if you feel you have found a potential bug, please open a pull request.
+## :computer: How to help?
+- Please feel free to suggest improvements, including but not limited to new operations and GUI updates.
+- I have done my best to eradicate all _known_ bugs from the code. However, if you feel you have found a potential bug, please open a pull request.
